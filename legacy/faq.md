@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /legacy/faq/
+permalink: /legacy/faq
 title: Frequently asked questions (FAQ)
 ---
 [← Back to start](/legacy)

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /legacy/development/
+permalink: /legacy/development
 title: glotaran-legacy documentation
 ---
 <!-- markdownlint-disable MD025 -->

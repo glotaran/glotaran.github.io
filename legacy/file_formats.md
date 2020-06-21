@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /legacy/file_formats/
-title: Frequently asked questions (FAQ)
+permalink: /legacy/file_formats
+title: File formats
 ---
 [← Back to start](/legacy)
 <!-- markdownlint-disable MD031 MD033 -->

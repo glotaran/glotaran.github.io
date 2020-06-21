@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /legacy/installation/
+permalink: /legacy/installation
 title: installation
 ---
 [← Back to start](/legacy)

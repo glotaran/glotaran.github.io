@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /legacy/changelog/
+permalink: /legacy/changelog
 title: glotaran-legacy changelog
 ---
 
@@ -28,6 +28,6 @@ title: glotaran-legacy changelog
 - Described in the [Journal of Statistical Software - Vol 49 - Issue 3](https://www.jstatsoft.org/article/view/v049i03 "Glotaran: A Java-Based Graphical User Interface for the R Package TIMP (DOI: 10.18637/jss.v049.i03)")
 - Built on the NetBeans RCP 7.0.1
 
-#### Glotaran 0.2.0 {#glotaran_0.2.0}
+#### Glotaran 0.2.0
 
 - First public release (limited audience)

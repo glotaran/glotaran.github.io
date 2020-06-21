@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /legacy/file_formats/
-title: Frequently asked questions (FAQ)
+permalink: /legacy/plot_styles
+title: Plot Styles
 ---
 [← Back to start](/legacy)
 <!-- markdownlint-disable MD031 MD033 -->

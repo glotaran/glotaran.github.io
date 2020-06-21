@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /legacy
 title: glotaran-legacy documentation
 ---
 <!-- markdownlint-disable MD025 -->
@@ -13,9 +14,9 @@ Glotaran stands for **Glo**bal and **Tar**get **An**alysis and was also the name
 This iteration in the development of global and target analysis software is now referred to as 'glotaran-legacy', to make room for its successor, pyglotaran, and future derivates.
 
 **glotaran-legacy**, released as Glotaran 1.2 and 1.5.x, is a tool for interactive global and target analysis of time-resolved spectroscopy and microscopy data.
-It is an open source software application for which the development was started at the [Biophysics department](https://www.nat.vu.nl/en/research/biophysics/) of the Vrije Universiteit Amsterdam ([VU]([vu.nl](https://www.vu.nl))),
+It is an open source software application for which the development was started at the [Biophysics department](https://www.nat.vu.nl/en/research/biophysics/) of the Vrije Universiteit Amsterdam ([VU](https://www.vu.nl)),
 as part of a [NWO](https://www.nwo.nl/en/research-and-results/research-projects/i/77/15677.html "NWO project 635.000.014") funded research project,
-by [Joris Snellenburg](https://nl.linkedin.com/in/snellenburg "LinkedIn Profile of Joris Snellenburg") ([Institutional Profile](https://research.vu.nl/en/persons/joris-snellenburg "Personal Academic Profile hosted by Vrije Universiteit Amsterdam"), Home Page)
+by [Joris Snellenburg](https://nl.linkedin.com/in/snellenburg "LinkedIn Profile of Joris Snellenburg") ([Institutional Profile](https://research.vu.nl/en/persons/joris-snellenburg "Personal Academic Profile hosted by Vrije Universiteit Amsterdam"), [Home Page](http://www.few.vu.nl/~jsnel/))
 and [Sergey Laptenok](http://www.uea.ac.uk/chemistry/people/Research+Associate/Siarhei+Laptenok "wikilink")
 under supervision of [Ivo van Stokkum](http://www.few.vu.nl/~ivo/ "Homepage dr. I.H.M. van Stokkum").
 
@@ -24,15 +25,15 @@ under supervision of [Ivo van Stokkum](http://www.few.vu.nl/~ivo/ "Homepage dr. 
 
 [//]: # (TOC: no pretty way of doing this in Markdown)
 
-|                                          |                                  |
-| :---                                     | :---                             |
-| [Installation](./installation.html)      | Installation instructions.       |
-| [FAQ](./faq.html)                        | Frequently asked questions.      |
-| [File formats](./file_formats.html)      | Supported file formats.          |
-| [Plot styles](./plot_styles.html)        | Color and line conventions.      |
-| [Development](./development.html)        | Development info glotaran-legacy.|
-| [Changelog](./changelog.html)            | Changelog for glotaran-legacy.   |
-| [Credits](./credits.html)                | Acknowledgements                 |
+|                                     |                                  |
+| :---                                | :---                             |
+| [Installation](./installation)      | Installation instructions.       |
+| [FAQ](./faq)                        | Frequently asked questions.      |
+| [File formats](./file_formats)      | Supported file formats.          |
+| [Plot styles](./plot_styles)        | Color and line conventions.      |
+| [Development](./development)        | Development info glotaran-legacy.|
+| [Changelog](./changelog)            | Changelog for glotaran-legacy.   |
+| [Credits](./credits)                | Acknowledgements                 |
 
 ## References
 

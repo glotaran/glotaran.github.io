@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /legacy/requirements/
+permalink: /legacy/requirements
 title: Requirements for glotaran-legacy
 ---
 

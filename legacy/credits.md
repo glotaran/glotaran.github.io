@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /legacy/credits/
+permalink: /legacy/credits
 title: credits
 ---
 [← Back to start](/legacy)
