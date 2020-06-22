@@ -21,8 +21,8 @@ This iteration in the development of global and target analysis software is now 
 It is an open source software application for which the development was started at the [Biophysics department](https://www.nat.vu.nl/en/research/biophysics/) of the Vrije Universiteit Amsterdam ([VU](https://www.vu.nl)),
 as part of a [NWO](https://www.nwo.nl/en/research-and-results/research-projects/i/77/15677.html "NWO project 635.000.014") funded research project,
 by [Joris Snellenburg](https://nl.linkedin.com/in/snellenburg "LinkedIn Profile of Joris Snellenburg") ([Institutional Profile](https://research.vu.nl/en/persons/joris-snellenburg "Personal Academic Profile hosted by Vrije Universiteit Amsterdam"), [Home Page](http://www.few.vu.nl/~jsnel/))
-and [Sergey Laptenok](http://www.uea.ac.uk/chemistry/people/Research+Associate/Siarhei+Laptenok "wikilink")
-under supervision of [Ivo van Stokkum](http://www.few.vu.nl/~ivo/ "Homepage dr. I.H.M. van Stokkum").
+and [Sergey Laptenok](https://vibralab.kaust.edu.sa/people/detail/siarhei-laptenok "dr. Sergey P. Laptenok at KAUST")
+under supervision of [Ivo van Stokkum](http://www.few.vu.nl/~ivo/ "VU Homepage dr. I.H.M. van Stokkum").
 
 ## Index
 <!--- 'Pretty' Table of Contents -->
