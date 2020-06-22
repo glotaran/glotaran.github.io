@@ -29,15 +29,15 @@ under supervision of [Ivo van Stokkum](http://www.few.vu.nl/~ivo/ "Homepage dr. 
 
 [//]: # (TOC: no pretty way of doing this in Markdown)
 
-|                                     |                                  |
-| :---                                | :---                             |
-| [Installation](./installation)      | Installation instructions.       |
-| [FAQ](./faq)                        | Frequently asked questions.      |
-| [File formats](./file_formats)      | Supported file formats.          |
-| [Plot styles](./plot_styles)        | Color and line conventions.      |
-| [Development](./development)        | Development info glotaran-legacy.|
-| [Changelog](./changelog)            | Changelog for glotaran-legacy.   |
-| [Credits](./credits)                | Acknowledgements                 |
+|                                   |                                  |
+| :---                              | :---                             |
+| [Installation](installation)      | Installation instructions.       |
+| [FAQ](faq)                        | Frequently asked questions.      |
+| [File formats](file_formats)      | Supported file formats.          |
+| [Plot styles](plot_styles)        | Color and line conventions.      |
+| [Development](development)        | Development info glotaran-legacy.|
+| [Changelog](changelog)            | Changelog for glotaran-legacy.   |
+| [Credits](credits)                | Acknowledgements                 |
 
 ## References
 
