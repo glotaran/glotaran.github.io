@@ -3,11 +3,15 @@ layout: default
 permalink: /legacy
 title: glotaran-legacy documentation
 ---
-<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD025 MD033 -->
 
 [← Back to glotaran.github.io](/)
 
 # Glotaran (legacy GUI)
+
+<div style="float: right">
+    <img src="./resources/logo/glotaran-icon128.png">
+</div>
 
 Glotaran stands for **Glo**bal and **Tar**get **An**alysis and was also the name of the now more aptly named glotaran-legacy software when it was first introduced to the scientific community in a 2012 Journal of Statistical Software [publication](https://www.jstatsoft.org/article/view/v049i03 "Glotaran: A Java-Based Graphical User Interface for the R Package TIMP") ([doi: 10.18637/jss.v049.i03](http://dx.doi.org/10.18637/jss.v049.i03)).
 
@@ -45,7 +49,7 @@ under supervision of [Ivo van Stokkum](http://www.few.vu.nl/~ivo/ "Homepage dr. 
 
 ## More info
 
-If you have any questions or concerns regarding the information found on this website - please feel free to reach out via github, the support mailing list or by e-mail: <info\@glotaran.org>
+If you have any questions or concerns regarding the information found on this website - please feel free to reach out via github, the support mailing list or by e-mail: <info@glotaran.org>
 
 If you are interested in contributing to Glotaran, please have a look at the [Glotaran organization on github](https://github.com/glotaran).
 
@@ -53,10 +57,12 @@ The source code for this page can be found [here](https://github.com/glotaran/gl
 
 ## Glotaran Logo
 
-![Glotaran](resources/glotaran-icon64.png)
+![Glotaran](resources/logo/glotaran-icon64.png)
 
-[64x64](resources/glotaran-icon64.png)
-[256x256](resources/glotaran-icon256.png)
+[64x64](resources/logo/glotaran-icon64.png)
+[128x128](resources/logo/glotaran-icon128.png)
+[256x256](resources/logo/glotaran-icon256.png)
+[SVG](resources/logo/glotaran-icon.svg)
 
 ## Copyright
 

@@ -146,7 +146,7 @@ it on your desktop so you can start it _before_ you start Glotaran.
 
 ##### Linux and Max OS X set-up
 
-Linux and Mac OS X require no special steps to setup. Start R (preferably from a terminal) and refer to [method 1](#Method-1-Starting-`Rserve`-from-the-`R`-GUI)
+Linux and Mac OS X require no special steps to setup. Start R (preferably from a terminal) and refer to [method 1](#method-1-starting-rserve-from-the-r-gui)
 
 ### Step 3: Starting Glotaran
 
