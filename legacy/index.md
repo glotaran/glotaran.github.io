@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /legacy
+permalink: /legacy/
 title: glotaran-legacy documentation
 ---
 <!-- markdownlint-disable MD025 MD033 -->
@@ -31,7 +31,7 @@ under supervision of [Ivo van Stokkum](http://www.few.vu.nl/~ivo/ "Homepage dr. 
 
 |                                   |                                  |
 | :---                              | :---                             |
-| [Installation](installation)      | Installation instructions.       |
+| [Installation](./installation)    | Installation instructions.       |
 | [FAQ](faq)                        | Frequently asked questions.      |
 | [File formats](file_formats)      | Supported file formats.          |
 | [Plot styles](plot_styles)        | Color and line conventions.      |
