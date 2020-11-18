@@ -54,17 +54,25 @@ Note that each column represents a time-gated spectrum, and each row
 represents a decay trace. For an example input file in `Time explicit`
 format, see [Example of time explicit data
 file](http://glotaran.org/samples/fileformats/te_data_file.ascii "wikilink").
-All entries above are space delimited. `Heading line 1` and `Heading
+All entries above are space delimited.
+
+**Line 1-2**: `Heading line 1` and `Heading
 line 2` are two lines that may be filled as the user likes (e.g., with
-a data file title). The line containing `Time explicit` indicates the
-format that the input data is to take. The line containing
-`Intervalnr` and a scalar m indicates the number of distinct time
+a data file title). 
+
+**Line 3**: The line containing `Time explicit` indicates the
+format that the input data is to take.
+
+**Line 4**: The line containing `Intervalnr` and a scalar m indicates the number of distinct time
 points m at which measurements were taken, (note that the number of
-wavelengths n need not be specified). The following line contains the
+wavelengths n need not be specified). 
+
+**Line 5**: The following line contains the
 real-valued times t1,\..., tm at which measurements were taken. The
 first value of each of the remaining lines represent the wavelength at
-which the decay trace contained on that row was taken. The rest of each
-remaining row represents a (space-delimited) decay trace
+which the decay trace contained on that row was taken. 
+
+**Line 6+**: The rest of each remaining row represents a (space-delimited) decay trace
 Ψ(t<sub>1</sub>,λ),Ψ(t<sub>2</sub>,λ),\...,Ψ(t<sub>m</sub>,λ). After all datapoints are specified
 the file can contain line `Integrated fluorescence` followed by tab or
 space delimited vector containing total fluorescence for each timestep.
