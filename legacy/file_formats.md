@@ -94,7 +94,7 @@ The format of the input ﬁle is as follows.
 Note that each column represents a decay trace, and each row represents
 a time-gated spectrum.
 
-For an example input file in `Wavelength explicit` format, see an [example time explicit data file](./resources/fileformats/te_data_file.ascii). In this file, all entries are space delimited.
+For an example input file in `Wavelength explicit` format, see an [example wavelength explicit data file](./resources/fileformats/we_data_file.ascii). In this file, all entries are space delimited.
 
 **Line 1-2**: `Heading line 1` and `Heading line 2` are two lines that may be anything (e.g. a reference to the original filename or author).
 
