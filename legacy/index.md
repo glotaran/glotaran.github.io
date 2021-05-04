@@ -66,6 +66,6 @@ The source code for this page can be found [here](https://github.com/glotaran/gl
 
 ## Copyright
 
-2010-2020 (©) Joris Snellenburg and pages' respective contributers
+2021 (©) Joris Snellenburg and pages' respective contributers
 
 This documentation is distributed under the terms of the Creative Commons Attribution Noncommercial License which permits any noncommercial use, distribution, and reproduction in any medium, provided the original author(s) and source are credited.
