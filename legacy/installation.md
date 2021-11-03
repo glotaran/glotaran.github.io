@@ -29,6 +29,8 @@ title: installation
 Before installing Glotaran, please check to see if your system meets the
 specified [requirements](./requirements.html "system requirements for glotaran-legacy").
 
+_Please note that R is only supported up to version R 4.0.5, R 4.1.x is **not yet supported**._
+
 ### Step 1: Installation
 
 Glotaran can be downloaded from [github](https://github.com/glotaran/glotaran-legacy/releases/ "glotaran/glotaran-legacy/releases").
