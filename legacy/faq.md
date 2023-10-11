@@ -17,6 +17,7 @@ title: Frequently asked questions (FAQ)
   - [My question about Glotaran is not answered by this FAQ](#my-question-about-glotaran-is-not-answered-by-this-faq)
 - [Technical issues](#technical-issues)
   - [How to fix tcl/tk errors in Mac OS X](#how-to-fix-tcltk-errors-in-mac-os-x)
+  - (NEW) [My result overview does not open](#how-to-fix-result-overview-not-opening)
 
 ### General questions
 
@@ -83,3 +84,35 @@ If you are running OS X 10.10 (Yosemite) then you would need
 - Command Line Tools (OS X 10.10) for Xcode - Xcode 6.1.1
 
 etc ...
+
+#### How to fix result overview not opening
+
+Glotaran uses the R package TIMP as a fitting backend. The fit progression is reported by nls.lm. 
+
+Something changed in R version R 4.1.0 in the way the output of NLS is formatted (as described [here](https://github.com/glotaran/glotaran-legacy/issues/40)).
+
+This results in an "Unexpected Exception" with the text: 
+
+```
+A java.util.NoSuchElementException exception has occurred.
+	Click Show Details or see the messages.log file located in your ... .glotaran\1.5\var\log folder.
+```
+
+If you expand it further you will see:
+
+```log
+java.util.NoSuchElementException
+	at java.util.Scanner.throwFor(Scanner.java:862)
+	at java.util.Scanner.next(Scanner.java:1371)
+	at org.glotaran.core.resultdisplayers.overview.AnalysisResultFileViewerTopComponent.parseNlsProgress(AnalysisResultFileViewerTopComponent.java:310)
+	at org.glotaran.core.resultdisplayers.overview.AnalysisResultFileViewerTopComponent.<init>(AnalysisResultFileViewerTopComponent.java:82)
+	at org.glotaran.core.resultdisplayers.overview.AnalyisResultFileViewer.getCloneableTopComponent(AnalyisResultFileViewer.java:12)
+	at org.glotaran.analysisoverviewfilesupport.AnalysisResultFileOpenSupport.createCloneableTopComponent(AnalysisResultFileOpenSupport.java:18)
+	... etc etc ...
+```
+
+The issue is described in detail in [this issue](https://github.com/glotaran/glotaran-legacy/issues/40)
+
+A workaround is to use R version 4.0.5 or earlier, until version 1.5.2 is released which patches this issues.
+
+<sub>Apologies for this inconvenience. It was not forseen back in 2015 that this change might happen in 2021.</sub>
